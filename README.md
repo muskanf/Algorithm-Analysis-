@@ -5,7 +5,7 @@ This project implements and compares three different algorithms that solve the s
 
 
 # The Algorithms
-Algorithm #1: Sequential Search
+# Algorithm #1: Sequential Search
 For each element in the list, do a sequential search to see if its negative is also in the list. Sequential search means you examine each element in the list one by one (iterate over the elements in the list).
 
 # Algorithm #2: Binary Search
